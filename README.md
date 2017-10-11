@@ -8,6 +8,15 @@ List of resources for Streaming, BI and metrics
 ## Kafka
 * [Putting Apache Kafka To Use - A Practical Guide to Building a Streaming Platform](https://www.confluent.io/blog/stream-data-platform-1/)
 
+## Data Processing
+* [Flink](https://flink.apache.org/)
+* [AthenaX - stream processing with SQL](https://github.com/uber/AthenaX)
+
+## A/B Testing
+* [Wasabi](https://github.com/intuit/wasabi)
+* [Proctor](https://github.com/indeedeng/proctor)
+* [PlanOut](https://facebook.github.io/planout/)
+
 ## Metrics
 * [The evolution of continuous experimentation in software product development: from data to a data-driven organization at scale](https://dl.acm.org/citation.cfm?id=3097460) - How to evolve your metrics and experimentation to become mature
 * [Measuring the User Experience on a Large Scale](https://research.google.com/pubs/pub36299.html) - User-Centered Metrics for Web Applications
