@@ -27,3 +27,6 @@ List of resources for Streaming, BI and metrics
 
 ## Data Protocols
 * [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html) - How different methods of schema transports work
+* (Why just use protobuf)[https://stackoverflow.com/questions/28545401/java-json-protobuf-back-conversion]
+* [Java-protobuf-formating](https://konstantinpavlov.net/blog/2012/04/22/java-protobuf-format-easy-protobuf-to-json-serialization-in-java/)
+
