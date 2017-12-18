@@ -7,6 +7,7 @@ List of resources for Streaming, BI and metrics
 
 ## Kafka
 * [Putting Apache Kafka To Use - A Practical Guide to Building a Streaming Platform](https://www.confluent.io/blog/stream-data-platform-1/)
+* [Thorough Introduction to Apache Kafka™](https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 
 ## Data Processing
 * [Flink](https://flink.apache.org/)
