@@ -32,3 +32,7 @@ List of resources for Streaming, BI and metrics
 * [Why just use protobuf](https://stackoverflow.com/questions/28545401/java-json-protobuf-back-conversion)
 * [Java-protobuf-formating](https://konstantinpavlov.net/blog/2012/04/22/java-protobuf-format-easy-protobuf-to-json-serialization-in-java/)
 
+## Anomaly Detection
+* [datastream.io](https://github.com/MentatInnovations/datastream.io) - real time anomaly detection
+* [Twitter - AnomalyDetection R package](https://github.com/twitter/AnomalyDetection) - 
+
