@@ -36,3 +36,7 @@ List of resources for Streaming, BI and metrics
 * [datastream.io](https://github.com/MentatInnovations/datastream.io) - real time anomaly detection
 * [Twitter - AnomalyDetection R package](https://github.com/twitter/AnomalyDetection) - 
 
+## Open Data Sets
+* [curran curated list](https://github.com/curran/data)
+* [data.gov.uk](https://data.gov.uk/) - UK Government open data
+
