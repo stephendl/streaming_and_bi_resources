@@ -40,3 +40,6 @@ List of resources for Streaming, BI and metrics
 * [curran curated list](https://github.com/curran/data)
 * [data.gov.uk](https://data.gov.uk/) - UK Government open data
 
+# Data Presentation
+* [Apache Superset](https://github.com/apache/incubator-superset)
+
