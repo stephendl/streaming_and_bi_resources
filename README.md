@@ -14,6 +14,10 @@ List of resources for Streaming, BI and metrics
 * [Flink](https://flink.apache.org/)
 * [AthenaX - stream processing with SQL](https://github.com/uber/AthenaX)
 
+## Microservices
+* [Micronaut](https://micronaut.io/)
+* Netflix [Mantis](https://netflix.github.io/mantis/)
+
 ## A/B Testing
 * [Wasabi](https://github.com/intuit/wasabi)
 * [Proctor](https://github.com/indeedeng/proctor)
