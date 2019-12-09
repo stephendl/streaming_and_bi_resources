@@ -24,7 +24,7 @@ List of resources for Streaming, BI and metrics
 * [Measuring the User Experience on a Large Scale](https://research.google.com/pubs/pub36299.html) - User-Centered Metrics for Web Applications
 
 ### What to measure in games
-* [Navigating the hazards of game data](http://www.develop-online.net/opinions/navigating-the-hazards-of-game-data/0187815) - what and how to measure
+* [Navigating the hazards of game data](https://www.mcvuk.com/navigating-the-hazards-of-game-data/) - what and how to measure
 * [Analytics & The Player Lifecycle](https://blogs.unity3d.com/2016/05/03/analytics-the-player-lifecycle/)
 
 ## Data Protocols
